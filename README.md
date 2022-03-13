@@ -1,6 +1,6 @@
 # Recipe Book Project
 
-<p>This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.</p>
+<p>This project was generated with Angular CLI version 13.1.2.</p>
 <p>This is a Udemy Angular project that I took to better my skills in angular</p> 
 
 <h5 align="left">Languages and Tools:</h5>
